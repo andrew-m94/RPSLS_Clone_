@@ -1,0 +1,15 @@
+D:\Repos\RPSLS_Clone\bin\Debug\net6.0\RPSLS_Clone.exe
+D:\Repos\RPSLS_Clone\bin\Debug\net6.0\RPSLS_Clone.deps.json
+D:\Repos\RPSLS_Clone\bin\Debug\net6.0\RPSLS_Clone.runtimeconfig.json
+D:\Repos\RPSLS_Clone\bin\Debug\net6.0\RPSLS_Clone.dll
+D:\Repos\RPSLS_Clone\bin\Debug\net6.0\ref\RPSLS_Clone.dll
+D:\Repos\RPSLS_Clone\bin\Debug\net6.0\RPSLS_Clone.pdb
+D:\Repos\RPSLS_Clone\obj\Debug\net6.0\RPSLS_Clone.csproj.AssemblyReference.cache
+D:\Repos\RPSLS_Clone\obj\Debug\net6.0\RPSLS_Clone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\RPSLS_Clone\obj\Debug\net6.0\RPSLS_Clone.AssemblyInfoInputs.cache
+D:\Repos\RPSLS_Clone\obj\Debug\net6.0\RPSLS_Clone.AssemblyInfo.cs
+D:\Repos\RPSLS_Clone\obj\Debug\net6.0\RPSLS_Clone.csproj.CoreCompileInputs.cache
+D:\Repos\RPSLS_Clone\obj\Debug\net6.0\RPSLS_Clone.dll
+D:\Repos\RPSLS_Clone\obj\Debug\net6.0\ref\RPSLS_Clone.dll
+D:\Repos\RPSLS_Clone\obj\Debug\net6.0\RPSLS_Clone.pdb
+D:\Repos\RPSLS_Clone\obj\Debug\net6.0\RPSLS_Clone.genruntimeconfig.cache
