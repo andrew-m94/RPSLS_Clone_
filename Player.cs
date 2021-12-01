@@ -10,6 +10,7 @@ namespace RPSLS_Clone
     {
         public int Score;
         public int CurrentPick;
+        public string Name;
 
         public Player()
         {

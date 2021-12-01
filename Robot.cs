@@ -8,13 +8,12 @@ namespace RPSLS_Clone
 {
     public class Robot : Player
     {
-        public string Name;
 
-        public Robot(int score, int currentPick, string name)
+        public Robot(int score, int currentPick)
         {
             this.Score = score;
             this.CurrentPick = currentPick;
-            this.Name = name;
+            this.Name = "MasterMind";
         }
     }
 }

@@ -14,7 +14,6 @@ namespace RPSLS_Clone
         {
             Score = score;
             CurrentPick = currentPick;
-            Name = name;
         }
 
         public void GetName()
